@@ -1,31 +1,31 @@
 @font-face {
     font-family: "Gilroy";
-    src: url("assets/fonts/gilroy/Gilroy-Medium.ttf") format(truetype);
+    src: url("./assets/fonts/gilroy/Gilroy-Medium.ttf") format(truetype);
     }
 
 @font-face {
     font-family: "monument";
-    src: url("assets/fonts/Monument/MonumentExtended-Regular.otf") format(opentype);
+    src: url("./assets/fonts/Monument/MonumentExtended-Regular.otf") format(opentype);
 }
 
 @font-face {
     font-family: "plain-regular";
-    src: url("assets/fonts/plain-regular-webfont.ttf") format(truetype);
+    src: url("./assets/fonts/plain-regular-webfont.ttf") format(truetype);
 }
 
 @font-face {
     font-family: "plain-light";
-    src: url("assets/fonts/plain-light-webfont.ttf") format(truetype);
+    src: url("./assets/fonts/plain-light-webfont.ttf") format(truetype);
 }
 
 @font-face {
     font-family: "silkserif-regular";
-    src: url("assets/fonts/silkserif-regularitalic-webfont.ttf") format(truetype);
+    src: url("./assets/fonts/silkserif-regularitalic-webfont.ttf") format(truetype);
 }
 
 @font-face {
     font-family: "silkserif-light";
-    src: url("assets/fonts/silkserif-lightitalic-webfont.ttf") format(truetype);
+    src: url("./assets/fonts/silkserif-lightitalic-webfont.ttf") format(truetype);
 }
 
 *{
